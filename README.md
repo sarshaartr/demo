@@ -1,4 +1,4 @@
 # demo
-Its my first repository
-<>b</>
+This is my first repository
+<br>
 Author-Sarshaar Moazzam
